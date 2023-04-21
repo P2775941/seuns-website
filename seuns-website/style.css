@@ -1,0 +1,26 @@
+h1{
+    color:rgb(0, 42, 250);   
+    text-align: center;
+}
+body {
+    background-image: url("image1.jpg");
+} 
+
+p {
+    color:lightcoral
+}
+
+li {
+    color: lightcoral 
+}
+h2{
+    color: lightskyblue;
+    text-align: center;
+}
+
+.img-border-blue{
+    padding: 2px;
+    border-style: solid;
+    color: white
+}
+/*This is where I changed the colour fonts and sizes of the text. CSS can be used inside and outside it can be used inside using style inside the HTML element or outisde using a link./*
